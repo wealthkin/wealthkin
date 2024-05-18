@@ -2,19 +2,19 @@ export const educations = [
   {
     id: 1,
     title: "Bachelor Degree",
-    duration: "2020 - Present",
-    institution: "National University of Bangladesh",
+    duration: "2024 - Present",
+    institution: "Aurora State College of Technology",
   },
   {
     id: 2,
-    title: "Higher Secondary Certificate",
-    duration: "2018 - 2020",
-    institution: "Noakhali Islamia Kamil Madrasah",
+    title: "Senior High School",
+    duration: "2019 - 2020",
+    institution: "Mount Carmel College of Casiguran",
   },
   {
     id: 3,
-    title: "Secondary School Certificate",
-    duration: "2008 - 2018",
-    institution: "Baitus Saif Islamia Madrasah",
+    title: "Junior High School",
+    duration: "2016 - 2017",
+    institution: "Tinib Calangcuasan Casiguran Aurora",
   }
 ]
