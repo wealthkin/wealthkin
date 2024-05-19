@@ -1,20 +1,20 @@
 export const experiences = [
   {
     id: 1,
-    title: 'Software Engineer I',
-    company: "Wealthkin",
-    duration: "(Jan 2022 - Present)"
+    title: 'Developer',
+    company: "BSIT (Application Programming)",
+    duration: "(2024 - Present)"
   },
   {
     id: 2,
-    title: "FullStack Developer",
-    company: "Wealthkin",
-    duration: "(Jun 2021 - Jan 2022)"
+    title: "Developer",
+    company: "BSIT (Application Programming)",
+    duration: "(2022 - 2023)"
   },
   {
     id: 3,
-    title: "Self Employed",
+    title: "Programmer",
     company: "Code and build something in everyday.",
-    duration: "(Jan 2018 - Present)"
+    duration: "(2021 - Present)"
   }
 ]
