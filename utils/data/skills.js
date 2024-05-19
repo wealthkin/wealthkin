@@ -10,14 +10,14 @@ export const skillsData = [
   'MySQL',
   'Next JS',
   'Git',
-  'Node JS',
+  'React',
   'Bootstrap',
   'Vue',
   'Photoshop',
   'Figma',
   'C++',
   'Java',
-  'React',
+  'Picsart',
   'Canva'
 ]
 
