@@ -1,0 +1,45 @@
+.subNavbar {
+    background-color: #ffc300;
+    padding: 0.5rem;
+    width: 100%;
+    position: absolute;
+    top: 3.5rem;
+    left: 0;
+    z-index: 40;
+}
+
+.toggleButton {
+    color: #d1d5db;
+    cursor: pointer;
+
+    &:hover {
+        color: #ffffff;
+    }
+}
+
+.subNavbarItems {
+    color: black;
+    flex: 1;
+    text-align: center;
+
+    &.hidden {
+        display: none;
+    }
+}
+
+.subNavbarItem {
+    color: #000000;
+    cursor: pointer;
+    flex: 1;
+    text-align: center;
+
+    &:hover {
+        color: #ffffff;
+    }
+}
+
+.activeSubNav {
+    margin-top: 0.5rem;
+    text-align: center;
+    color: #ffffff;
+}
